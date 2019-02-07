@@ -1,7 +1,7 @@
 ---
 aliases: aureliajs, aurelia-vnext, vnext, aurelia-spa, spa, jsx, aureliavnext, aurelia-2, aurelia-2-vnext
 created_by: Rob Eisenberg
-display_name: aurelia
+display_name: Aurelia
 github_url: https://github.com/aurelia/aurelia
 logo: aurelia.png
 related: angular, react, vue, vuejs, inferno, mithril, ember, durandal, meteor, meteorjs
